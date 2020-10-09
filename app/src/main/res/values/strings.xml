@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coding Test</string>
+    <string name="chapter1">Chapter 1</string>
+    <string name="chapter2">Chapter 2</string>
+    <string name="videos">Videos</string>
+    <string name="documents">Documnets</string>
+    <string-array name="chapter_1_subitems">
+        <item>Video 1_1</item>
+        <item>Document 1_1</item>
+        <item>Audio 1_1</item>
+        <item>Video 1_2</item>
+    </string-array>
+    <string-array name="chapter_2_subitems">
+        <item>Video 2_1</item>
+        <item>Document 2_1</item>
+        <item>Audio 2_1</item>
+    </string-array>
+</resources>
